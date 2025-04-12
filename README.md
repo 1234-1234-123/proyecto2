@@ -1,4 +1,4 @@
-# 📝 Editor de Texto con Búsqueda y Funciones de Deshacer/Rehacer
+# 📝 Editor de Texto con Busqueda y Funciones de Deshacer/Rehacer
 
 ## Descripcion
 
@@ -34,7 +34,7 @@ Este proyecto es un **editor de texto interactivo en Java**, desarrollado con la
 ## Tecnologías Usadas
 
 - **Lenguaje:** Java
-- **Librerías GUI:** Swing (javax.swing)
+- **Librerias GUI:** Swing (javax.swing)
 - **Estructuras de Datos:** Pilas (Stack), Listas (ArrayList), Arbol Binario
 
 ---
